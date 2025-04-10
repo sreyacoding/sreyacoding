@@ -13,8 +13,9 @@ Let’s connect and create something awesome together! 🚀
 ## 💫 A Little More About Me
 
 📚 **Currently geeking out on:** Deep Learning, NLP, and Generative AI  
-💡 **What I Love:** Solving problems and building solutions that are impactful and meaningful 
-🎨 **Fun Fact:** I enjoy listening to music and painting 
+💡 **What I Love:** Solving problems and building solutions that are impactful and meaningful  
+🎨 **Fun Fact:** I enjoy listening to music and painting
+
 
 
 ---
