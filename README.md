@@ -67,7 +67,7 @@ Let’s connect and create something awesome together! 🚀
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white&style=flat-square)
 
 ---
-
+<!--
 ## 📈 GitHub Stats
 
 <p align="center">
@@ -107,10 +107,10 @@ Let’s connect and create something awesome together! 🚀
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=sreyacoding&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
 </div>
-
+-->
 ###
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=sreyacoding&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+<!--![](https://github-readme-stats.vercel.app/api?username=sreyacoding&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>-->
 ![](https://nirzak-streak-stats.vercel.app/?user=sreyacoding&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=sreyacoding&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
