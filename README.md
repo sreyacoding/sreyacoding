@@ -89,3 +89,12 @@ Let’s connect and create something awesome together! 🚀
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username==sreyacoding&theme=tokyo-night" alt="GitHub Activity Graph" />
 </p>
+
+---
+
+## 📊 My GitHub Stats
+
+<p align="center">
+  <img src="github-stats.png" alt="GitHub stats" />
+</p>
+
