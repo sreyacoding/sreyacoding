@@ -20,37 +20,37 @@ Let’s connect and create something awesome together! 🚀
 
 ## 💻 Core
 
-![C](https://img.shields.io/badge/-C-00599C?logo=c&logoColor=white&style=flat-square)  
-![C++](https://img.shields.io/badge/-C++-00599C?logo=c%2B%2B&logoColor=white&style=flat-square)  
+![C](https://img.shields.io/badge/-C-00599C?logo=c&logoColor=white&style=flat-square)
+![C++](https://img.shields.io/badge/-C++-00599C?logo=c%2B%2B&logoColor=white&style=flat-square)
 ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=flat-square)
 
 ---
 
 ## 📝 Code Editors
 
-![VS Code](https://img.shields.io/badge/-VSCode-007ACC?logo=visual-studio-code&logoColor=white&style=flat-square)  
-![Jupyter](https://img.shields.io/badge/-Jupyter-F37626?logo=jupyter&logoColor=white&style=flat-square)  
+![VS Code](https://img.shields.io/badge/-VSCode-007ACC?logo=visual-studio-code&logoColor=white&style=flat-square)
+![Jupyter](https://img.shields.io/badge/-Jupyter-F37626?logo=jupyter&logoColor=white&style=flat-square)
 ![Anaconda](https://img.shields.io/badge/-Anaconda-44A833?logo=anaconda&logoColor=white&style=flat-square)
 
 ---
 
 ## 🧠 AI / ML
 
-![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?logo=tensorflow&logoColor=white&style=flat-square)  
-![Scikit-learn](https://img.shields.io/badge/-Scikit--learn-F7931E?logo=scikit-learn&logoColor=white&style=flat-square)  
-![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?logo=pytorch&logoColor=white&style=flat-square)  
-![OpenCV](https://img.shields.io/badge/-OpenCV-5C3EE8?logo=opencv&logoColor=white&style=flat-square)  
-![Hugging Face](https://img.shields.io/badge/-HuggingFace-FFD21F?logo=huggingface&logoColor=black&style=flat-square)  
-![Pandas](https://img.shields.io/badge/-Pandas-150458?logo=pandas&logoColor=white&style=flat-square)  
-![NumPy](https://img.shields.io/badge/-NumPy-013243?logo=numpy&logoColor=white&style=flat-square)  
+![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?logo=tensorflow&logoColor=white&style=flat-square)
+![Scikit-learn](https://img.shields.io/badge/-Scikit--learn-F7931E?logo=scikit-learn&logoColor=white&style=flat-square)
+![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?logo=pytorch&logoColor=white&style=flat-square)
+![OpenCV](https://img.shields.io/badge/-OpenCV-5C3EE8?logo=opencv&logoColor=white&style=flat-square)
+![Hugging Face](https://img.shields.io/badge/-HuggingFace-FFD21F?logo=huggingface&logoColor=black&style=flat-square)
+![Pandas](https://img.shields.io/badge/-Pandas-150458?logo=pandas&logoColor=white&style=flat-square)
+![NumPy](https://img.shields.io/badge/-NumPy-013243?logo=numpy&logoColor=white&style=flat-square)
 ![Streamlit](https://img.shields.io/badge/-Streamlit-FF4B4B?logo=streamlit&logoColor=white&style=flat-square)
 
 ---
 
 ## 🪄 Generative AI
 
-![LLaMA](https://img.shields.io/badge/-LLaMA-4A154B?logo=data-bricks&logoColor=white&style=flat-square)  
-![LangChain](https://img.shields.io/badge/-LangChain-000000?logo=chainlink&logoColor=white&style=flat-square)  
+![LLaMA](https://img.shields.io/badge/-LLaMA-4A154B?logo=data-bricks&logoColor=white&style=flat-square)
+![LangChain](https://img.shields.io/badge/-LangChain-000000?logo=chainlink&logoColor=white&style=flat-square)
 ![Fine-tuning](https://img.shields.io/badge/-Fine--tuning-007ACC?logo=neural&logoColor=white&style=flat-square)
 
 ---
@@ -63,7 +63,7 @@ Let’s connect and create something awesome together! 🚀
 
 ## 🛠️ Software & Tools
 
-![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white&style=flat-square)  
+![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white&style=flat-square)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white&style=flat-square)
 
 ---
@@ -71,7 +71,7 @@ Let’s connect and create something awesome together! 🚀
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=sreyacoding&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
 </p>
 
 ---
@@ -79,7 +79,7 @@ Let’s connect and create something awesome together! 🚀
 ## 🔥 Streak Stats
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sreyacoding&theme=tokyonight" alt="GitHub Streak" />
 </p>
 
 ---
@@ -87,5 +87,5 @@ Let’s connect and create something awesome together! 🚀
 ## 🧮 Contribution Graph
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night" alt="GitHub Activity Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username==sreyacoding&theme=tokyo-night" alt="GitHub Activity Graph" />
 </p>
